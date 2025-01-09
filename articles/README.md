@@ -10,7 +10,7 @@ Welcome to the Tech Insights Repository! This repository features four in-depth 
 4. An Analysis of Vulnerabilities (Vuls)
 5. Huffman Algorithm
 6. AI and Blockchain, Enhancing Security, Transparency, and Integrity
-
+7. CAPTCHA unmasked: The mathematics that outsmarts bots
 
 
 
